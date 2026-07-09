@@ -1,8 +1,6 @@
-# Hi 👋 My name is Igor Tsaregorodtsev
+# Igor Tsaregorodtsev | Backend Developer
 
-## Backend developer
-
-I am very interested in learning new technologies and trying new fields. Besides, I like to take part in hackathons, olympiads and game jams to put my skills to the test and learn something new.
+I am passionate about exploring emerging technologies and expanding my expertise into new fields. I regularly participate in hackathons, olympiads, and game jams to put my skills to the test and build innovative solutions.
 
 ### Programming languages
 ![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white) ![Java](https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=openjdk&logoColor=white) ![C#](https://img.shields.io/badge/C_Sharp-000000?style=for-the-badge&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/C_Plus_Plus-000000?style=for-the-badge&logo=cplusplus&logoColor=white) ![Golang](https://img.shields.io/badge/Golang-000000?style=for-the-badge&logo=go&logoColor=white) ![Dart](https://img.shields.io/badge/Dart-000000?style=for-the-badge&logo=dart&logoColor=white)
