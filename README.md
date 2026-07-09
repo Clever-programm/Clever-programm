@@ -20,7 +20,7 @@ I am very interested in learning new technologies and trying new fields. Besides
 
 ## Public Links
 
-[![Telegram](https://img.shields.io/badge/Telegram-000000?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/твой_ник)
-[![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/твой_ник)
-[![freeCodeCamp](https://img.shields.io/badge/freeCodeCamp-000000?style=for-the-badge&logo=freecodecamp&logoColor=white)](https://www.freecodecamp.org/твой_ник)
-[![GitLab](https://img.shields.io/badge/GitLab-000000?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/твой_ник)
+[![Telegram](https://img.shields.io/badge/Telegram-000000?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/IgorClove)
+[![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/cloverok)
+[![freeCodeCamp](https://img.shields.io/badge/freeCodeCamp-000000?style=for-the-badge&logo=freecodecamp&logoColor=white)](https://www.freecodecamp.org/clever-program)
+[![GitLab](https://img.shields.io/badge/GitLab-000000?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.kg.ru/i.tsaregorodtsev)
